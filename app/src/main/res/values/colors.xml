@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="splash_background">#D9E8E5</color> <!-- Light Cyan -->
+    <color name="splash_accent">#008B8B</color> <!-- Dark Teal -->
+    <color name="splash_text">#005F5F</color> <!-- Deep Teal -->
+
+    <color name="primary_color">#008B8B</color> <!-- Button background -->
+    <color name="secondary_color">#00A6A6</color> <!-- Accent/highlight -->
+    <color name="background_color">#D9E8E5</color> <!-- Page background -->
+    <color name="primary_text">#005F5F</color> <!-- Main text -->
+    <color name="secondary_text">#333333</color> <!-- Subtext -->
+    <color name="button_text">#FFFFFF</color> <!-- Button text -->
+</resources>
