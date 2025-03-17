@@ -141,3 +141,11 @@
 
     ✅ Enhanced problem-solving abilities in real-time data tracking.
 
+# **Screen**
+![Image](https://github.com/user-attachments/assets/2524aeb3-4b10-48a5-bb3e-8a0081010ada)
+![Image](https://github.com/user-attachments/assets/82e75bfe-81f9-40c3-8ac8-9579d80484dc)
+![Image](https://github.com/user-attachments/assets/4480bc07-bd27-4ac1-8597-bbe7c2ba671e)
+![Image](https://github.com/user-attachments/assets/2faa7630-bba0-41ac-8074-5b32684e3851)
+![Image](https://github.com/user-attachments/assets/c4ceddf2-d5d6-4bec-8b98-ccea30c1d5e1)
+![Image](https://github.com/user-attachments/assets/ff789a08-a789-4574-a108-cf580320a3a1)
+![Image](https://github.com/user-attachments/assets/be03fb78-db0a-49ad-acf3-4180ebcc57a0)
